@@ -1,7 +1,3 @@
-Here’s a README.md tailored for your MediBox project, including instructions for cloning, installing Node-RED, and importing flows.json. You can copy and use this directly in your repo.
-
----
-
 # MediBox
 
 MediBox is a smart medication box system created using an ESP32 microcontroller, integrated with a Node-RED dashboard for visualization and control.
