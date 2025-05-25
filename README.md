@@ -56,17 +56,13 @@ Upload your ESP32 code (located in the repository) to your ESP32 board using Ard
 ## Project Structure
 
 - `flows.json` &mdash; Node-RED flow definitions for the dashboard and logic
-- `ESP32_Code/` &mdash; Source code for the ESP32 microcontroller
+- `src/` &mdash; Source code for the ESP32 microcontroller
 
 ## Dependencies
 
 - Node.js
 - Node-RED
 - ESP32 libraries (for Arduino or PlatformIO)
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
